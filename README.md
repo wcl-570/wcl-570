@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wcl-570
-- 👀 I’m interested in Data science, python, AI
+- 👀 I’m interested in Firmware development, Machine learning, Data science
 - 🌱 I’m currently learning data structure and algorithms
 - 📫 How to reach me: wuchinlin570@gmail.com
 
